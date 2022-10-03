@@ -2,6 +2,4 @@
 
 ## THIS IS A README FILE
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-![This is a gif](http://reactiongifs.com/?p=12558)
+![This is a gif](https://media1.giphy.com/media/qqlaATEafHFHq/giphy.gif?cid=ecf05e476fw3ool9lahtjonl0q1loa8651w0mi2pmybj2url&rid=giphy.gif&ct=g)
