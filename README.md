@@ -8,8 +8,3 @@
 
 Vilka fina flamingos!
 =======
-
-Vilka fina flamingos!
->>>>>>> 3c16c43d972dd6d144aefcb2a28f1b9c1fb3a2f6
-
-Vilka fina flamingos!
