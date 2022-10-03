@@ -6,4 +6,4 @@
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![This is a gif](https://giphy.com/gifs/running-muppets-7kn27lnYSAE9O)
+![This is a gif](http://reactiongifs.com/?p=12558)
